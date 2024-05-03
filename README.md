@@ -3,7 +3,11 @@
 
 This is my effort to learn C++. I will be very glad to receive comments and suggestions for improvement in the code.
 
-In this course, I have covered very **basic concepts** and the advanced **Object oriented programming** content. W have also talked about inheritance. We have talked about **loops, if else statements as well.**
+In this course, We have covered very 
+1. Basic concepts
+2. Object oriented programming
+3. Inheritance
+4. Loops, if else statements
 
 **TIPS**
 1. Key binding to auto align the code is:
@@ -13,3 +17,7 @@ On Mac Shift + Option + F
 On Ubuntu Ctrl + Shift + I
 ```
 2. 
+
+**General Information**
+- #include <file> When you use angle brackets, as in #include <file> , the compiler searches for the header file in the standard system directories
+- #include "file" When you use double quotes, as in #include "file" , the compiler first searches for the header file in the current directory.
