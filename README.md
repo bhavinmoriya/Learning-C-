@@ -8,6 +8,7 @@ In this course, We have covered very
 2. Object oriented programming
 3. Inheritance
 4. Loops, if else statements
+5. Iterators
 
 **TIPS**
 1. Key binding to auto align the code is:
